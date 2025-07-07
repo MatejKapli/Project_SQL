@@ -118,4 +118,4 @@ This table merges economic data with country metadata to provide a comprehensive
 - Wages and prices were aligned by filtering for overlapping years only.
 - All transformations were applied only in the final result tables; no primary data was altered.
 
-- 
+- ## 🔍 Research Questions answers. Please open pdf file "Results" which is uploaded to this Repository.
